@@ -1,5 +1,5 @@
 <body>
-<h1>READE PRINTF</h1>
+<h1>PRINTF README</h1>
 
 <h2>Write a function that produces output according to a format.</h2>
 <ul>
